@@ -13,19 +13,19 @@ This repository describes a reproducible research script which is an experiment 
 
 ## Usage
 
-1. You need to clone [PolSAR.jl](https://github.com/gsd-ufal/PolSAR.jl.git) and enter to directory:
+* You need to clone [PolSAR.jl](https://github.com/gsd-ufal/PolSAR.jl.git) and enter to directory:
 
 ```
-git clone Pkg.clone("https://github.com/gsd-ufal/PolSAR.jl.git") && cd PolSAR.jl/src
+$ git clone Pkg.clone("https://github.com/gsd-ufal/PolSAR.jl.git") && cd PolSAR.jl/src
 ```
 
-2. Download experiment script on same folder PolSAR.jl/src:
+* Download experiment script on same folder PolSAR.jl/src:
 
 ```
-wget url
+$ wget https://raw.githubusercontent.com/gsd-ufal/HugePolSAR.jl/master/src/HugePolSAR.jl
 ```
 
-3. Image files download
+* Image files download
 
 The images can be downloaded in the following links:
 
@@ -45,10 +45,10 @@ located in the same folder as the code files, but different images with differen
 
 Saving them  on the same folder PolSAR.jl/src. 
 
-4. Finally, still in the same folder:
+* Finally, still in the same folder:
 
 ```
-julia HugePolSAR.jl
+$ julia HugePolSAR.jl
 ```
 
 The experiment may take several hours.
