@@ -37,7 +37,7 @@ Images can be downloaded in the following links:
 
 [UAVSAR - Uninhabited Aerial Vehicle Synthetic Aperture Radar](http://uavsar.jpl.nasa.gov/cgi-bin/download.pl)
 
-The image used in the experimetns refers to the following files which can be downloaded at [this Web link](http://uavsar.jpl.nasa.gov/cgi-bin/product.pl?jobName=ChiVol_29304_14054_007_140429_L090_CX_01):
+The image used in the experiments refers to the following files which can be downloaded at [this Web link](http://uavsar.jpl.nasa.gov/cgi-bin/product.pl?jobName=ChiVol_29304_14054_007_140429_L090_CX_01):
 
 ```
 ChiVol_29304_14054_007_140429_L090HH_CX_01.slc
